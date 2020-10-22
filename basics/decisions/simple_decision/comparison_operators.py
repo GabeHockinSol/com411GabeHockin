@@ -1,4 +1,6 @@
+# Gets and stores number 1
 num1 = float(input("Please enter the first number: "))
+# Get and stores number 2
 num2 = float(input("Please enter the second number: "))
 
 if (num1 < num2):
