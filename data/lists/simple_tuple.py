@@ -6,5 +6,3 @@ def run():
   print(f"Minimum likelihood of falling: {likelihood()}%")
 
 run()
-
- "Added code to demonstrate a simple tuple."
