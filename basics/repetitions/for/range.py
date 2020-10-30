@@ -8,3 +8,5 @@ for brightness in range (2, brightness_desired + 1, 2):
   print("Bop's brightness level:", "*" * brightness)
 
 print("Adjustments complete")
+
+"Added code to demonstrate the use of a simple for loop."
