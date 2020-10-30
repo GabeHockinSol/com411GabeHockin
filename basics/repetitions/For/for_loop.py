@@ -18,3 +18,4 @@ for count in range(0, drawingCount, 1):
 # Completed text
 if(count == drawingCount):
   print("Done!")
+
