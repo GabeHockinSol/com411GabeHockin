@@ -7,4 +7,3 @@ for row in range(0, rows, 1):
     print(":)", end = "")
   print()
 
-"Added code to demonstrate the use of one loop nested is another."
