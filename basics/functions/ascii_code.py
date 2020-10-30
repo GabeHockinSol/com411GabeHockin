@@ -9,5 +9,3 @@ else:
     print("A single character was expected.")
 
 print("Program Ended!")
-
-"Added code to demonstrate the use of built-in functions: len, ord."
