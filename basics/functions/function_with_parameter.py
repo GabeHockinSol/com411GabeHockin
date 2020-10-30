@@ -14,5 +14,3 @@ def escape_by(plan):
 escape_by("jumping over")
 escape_by("running around")
 escape_by("going deeper") 
-
-Added code to demonstrate the use of a user-defined function with a parameter.
