@@ -64,3 +64,5 @@ def run():
             print("Unknown option.") 
 
 run()
+
+"Added code to demonstrate the use of multiple function calls."
