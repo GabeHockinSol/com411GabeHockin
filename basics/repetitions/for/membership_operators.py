@@ -9,4 +9,3 @@ for letter in phrase:
 
 print(reversed)
 
-"Added code to demonstrate the use of membership operators with a for loop."
